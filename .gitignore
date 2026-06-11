@@ -96,3 +96,4 @@ ffmpeg/presets/*
 !ffmpeg/**/.gitkeep
 
 .omo
+.sisyphus
